@@ -1,0 +1,5 @@
+# Remove the node_modules and .env files
+
+/client/node_modules
+/server/node_modules
+/server/.env
